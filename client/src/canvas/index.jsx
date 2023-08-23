@@ -7,4 +7,4 @@ const Canvas = () => {
   )
 }
 
-export default Ca>nvas
+export default Canvas
